@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+
+Perkenalkan nama saya **Ahmad Bayu Samudera**. <br>
+
+📫 Saya seorang mahasiswa di **UIN Sunan Gungung Djati Bandung** jurusan **Ekonomi Syariah**<br>
+
+Saat ini saya tertarik dengan bidang IT dan saat ini sedang menjalani pelatihan Dicoding <br>
+
+Jika kamu ingin berkenalan denganku, silahkan ikuti akunku!
+✨(https://www.linkedin.com/in/ahmad-bayu-samudera-985880236/)✨
 
 <!--
 **AhmadBayu1412/AhmadBayu1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
