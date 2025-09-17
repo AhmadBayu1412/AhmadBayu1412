@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Ahmad Bayu Samudera
 ## "Learning. Building. Automating. 🚀"
 
-![GitHub Banner](img/github-header-banner%202.png)
+![GitHub Banner](img/github-header-banner%203.png)
 
 Currently learning [**n8n**](https://n8n.io/) to build automation workflows.
 I’m still a **beginner**, but I’d love to share projects that (hopefully) bring value! ✨🤩
