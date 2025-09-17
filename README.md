@@ -20,12 +20,6 @@ Masih **pemula**, tapi pengen berbagi project yang semoga bermanfaat! ✨🤩
 ---
 ### 🔖 Tools & Belajar  
 
-**Alat Perang** 
-![n8n](https://img.shields.io/badge/n8n-Flow%20Automation-orange?logo=n8n)
-**Portofolio**
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)  
-**Belajar**
-![ChatGPT](https://img.shields.io/badge/ChatGPT-Learning-green?logo=openai)  
-![Gemini](https://img.shields.io/badge/Gemini-Helper-blue?logo=google)  
+![n8n](https://img.shields.io/badge/n8n-Flow%20Automation-orange?logo=n8n) ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github) ![ChatGPT](https://img.shields.io/badge/ChatGPT-Learning-green?logo=openai) ![Gemini](https://img.shields.io/badge/Gemini-Helper-blue?logo=google)  
 
 ---
