@@ -7,7 +7,9 @@ Currently learning [**n8n**](https://n8n.io/) to build automation workflows.
 I’m still a **beginner**, but I’d love to share projects that (hopefully) bring value! ✨🤩
 
 ---
-![Detective Conan](https://tenor.com/id/view/detective-detective-conan-anime-eyeglasses-gif-16507322.gif )
+
+<img src="https://tenor.com/id/view/detective-detective-conan-anime-eyeglasses-gif-16507322.gif" alt="Detective Conan" width="100%" />
+
 
 *"✨ Learning by doing, consistency is the key! 😎"*
 
