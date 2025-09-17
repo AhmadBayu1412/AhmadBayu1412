@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Ahmad Bayu Samudera
 ## "Learning. Building. Automating. 🚀"
 
-![GitHub Banner](img/github-header-banner%201.png)
+![GitHub Banner](img/github-header-banner%202.png)
 
 Currently learning [**n8n**](https://n8n.io/) to build automation workflows.
 I’m still a **beginner**, but I’d love to share projects that (hopefully) bring value! ✨🤩
 
 ---
-![Detective Conan](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmlnbXA2d3k2Mm16dDhpNmhzc3BnMWt2NnU1dHI2a3c5a3JlbXh5ciZlcD12MV9faW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/eODLcLD0Hcx7W/giphy.gif)
+![Detective Conan](https://tenor.com/id/view/detective-detective-conan-anime-eyeglasses-gif-16507322.gif )
 
 *"✨ Learning by doing, consistency is the key! 😎"*
 
