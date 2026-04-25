@@ -15,30 +15,31 @@
 
 ## // About Me
 
-> Seorang frontend developer yang sedang membangun fondasi kuat menuju fullstack.  
-> Saya percaya bahwa kode yang baik bukan hanya yang bekerja — tapi yang juga mudah dibaca, dipelihara, dan dikembangkan.  
-> Saat ini aktif membangun portofolio dan terus belajar setiap hari.
+> I'm a **Front-End Developer in progress** with a strong passion for building clean, responsive, and user-friendly web interfaces.  
+> Right now, I'm focusing on growing my skills in front-end development, and my long-term goal is to become a **Full-Stack Developer**.
+
+> I enjoy learning by building real projects, especially tutorial-based projects and new portfolio pieces that help me improve both my technical skills and my problem-solving mindset.
+
 
 ---
 
 ## // Tech Stack
 
 **Frontend**
-`HTML` `CSS` `Bootstrap` `JavaScript` `React`
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25"/> Bootstrap &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25"/> React </p>
 **Tools**
-`Git` `GitHub` `Node.js` `VS Code`
-
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/> Git &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/> Node.js &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/> VS Code </p>
 **Currently Learning**
-`TypeScript` `Next.js` `REST API`
+<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25"/> TypeScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25"/> Next.js &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25"/> REST API </p>
 
 ---
 
 ## // Currently Working On
 
-- 🔨 Membangun proyek portofolio dari nol
-- 📚 Mengerjakan tutorial projects & memodifikasi jadi versi sendiri
-- ⚛️ Mendalami React dan ekosistemnya
+- 🔨 Building tutorial projects to strengthen my fundamentals
+- 📚 Creating portfolio projects to showcase my skills
+- 🎯 Practicing clean code and better project structure
+- ⚛️ Improving my understanding of front-end and full-stack workflows
 
 ---
 
