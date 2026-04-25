@@ -1,31 +1,70 @@
-# 👋 Hi, I’m Ahmad Bayu Samudera
-## "Learning. Building. Automating. 🚀"
+<div align="center">
 
-![GitHub Banner](img/github-header-banner%203.png)
+  <img src="https://avatars.githubusercontent.com/u/YOUR_ID" width="100" style="border-radius: 50%;" />
 
-Currently learning [**n8n**](https://n8n.io/) to build automation workflows.
-I’m still a **beginner**, but I’d love to share projects that (hopefully) bring value! ✨🤩
+  # Hi, I'm Ahmad Bayu Samudera 👋
+  **Aspiring Frontend Developer → Full Stack**
 
----
+  ![Location](https://img.shields.io/badge/📍_Indonesia-informational?style=flat&color=0ea5e9)
+  ![Status](https://img.shields.io/badge/🟢_Open_to_Work-success?style=flat)
+  ![Status](https://img.shields.io/badge/⚡_Building_Portfolio-orange?style=flat)
 
-<img src="https://tenor.com/id/view/detective-detective-conan-anime-eyeglasses-gif-16507322.gif" alt="Detective Conan" width="100%" />
-
-
-*"✨ Learning by doing, consistency is the key! 😎"*
+</div>
 
 ---
 
-### 🌱 About Me
+## // About Me
 
-* 🚀 **Focus:** Creating automation to make work less boring
-* 💡 **Learning Channels:** ChatGPT & Gemini
-* 🔧 **Challenge:** Still new to JavaScript, so I often ask AI for help 😅
-* 🎯 **Goal:** Practice creativity, build a portfolio, and hopefully grow a career in automation
+> Seorang frontend developer yang sedang membangun fondasi kuat menuju fullstack.  
+> Saya percaya bahwa kode yang baik bukan hanya yang bekerja — tapi yang juga mudah dibaca, dipelihara, dan dikembangkan.  
+> Saat ini aktif membangun portofolio dan terus belajar setiap hari.
+
+---
+
+## // Tech Stack
+
+**Frontend**
+`HTML` `CSS` `Bootstrap` `JavaScript` `React`
+
+**Tools**
+`Git` `GitHub` `Node.js` `VS Code`
+
+**Currently Learning**
+`TypeScript` `Next.js` `REST API`
 
 ---
 
-### 🔖 Tools & Learning
+## // Currently Working On
 
-![n8n](https://img.shields.io/badge/n8n-Flow%20Automation-orange?logo=n8n) ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github) ![ChatGPT](https://img.shields.io/badge/ChatGPT-Learning-green?logo=openai) ![Gemini](https://img.shields.io/badge/Gemini-Helper-blue?logo=google)
+- 🔨 Membangun proyek portofolio dari nol
+- 📚 Mengerjakan tutorial projects & memodifikasi jadi versi sendiri
+- ⚛️ Mendalami React dan ekosistemnya
 
 ---
+
+## // Goals 2025–2026
+
+- 🟢 Land my first **Frontend Developer** role
+- 🔵 Grow into a **Fullstack Developer**
+- 🟡 Contribute to open source projects
+
+---
+
+## // Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Bayu_Samudera-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ahmad-bayu-samudera)
+[![Email](https://img.shields.io/badge/Email-contact@email.com-D14836?style=flat&logo=gmail)](mailto:ahmadbayusamudera01@gmail.com)
+// [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://YOUR_PORTFOLIO.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" width="48%" />
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ If you find my projects useful, consider giving them a star!</sub>
+</div>
