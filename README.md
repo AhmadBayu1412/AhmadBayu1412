@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://avatars.githubusercontent.com/u/YOUR_ID" width="100" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/146661298" width="100" style="border-radius: 50%;" />
 
   # Hi, I'm Ahmad Bayu Samudera 👋
   **Aspiring Frontend Developer → Full Stack**
@@ -54,13 +54,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Bayu_Samudera-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ahmad-bayu-samudera)
 [![Email](https://img.shields.io/badge/Email-contact@email.com-D14836?style=flat&logo=gmail)](mailto:ahmadbayusamudera01@gmail.com)
-// [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=flat&logo=vercel)](https://YOUR_PORTFOLIO.com)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbayu1412&layout=compact&theme=default&hide_border=true" width="48%" />
 </div>
 
 ---
