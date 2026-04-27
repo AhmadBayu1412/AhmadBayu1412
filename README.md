@@ -56,7 +56,7 @@
 ## // Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Bayu_Samudera-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ahmad-bayu-samudera)
-[![Email](https://img.shields.io/badge/Email-contact@email.com-D14836?style=flat&logo=gmail)](mailto:ahmadbayusamudera01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ahmadbayusamudera01@email.com-D14836?style=flat&logo=gmail)](mailto:ahmadbayusamudera01@gmail.com)
 
 ---
 
