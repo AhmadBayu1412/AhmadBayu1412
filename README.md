@@ -61,12 +61,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbayu1412&layout=compact&theme=default&hide_border=true" width="48%" />
-</div>
-
----
-
-<div align="center">
   <sub>⭐ If you find my projects useful, consider giving them a star!</sub>
 </div>
