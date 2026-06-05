@@ -57,12 +57,10 @@
 
 ---
 ## // GitHub Activity Graph
-# Menampilkan grafik kontribusi harianmu dalam bentuk kurva yang dinamis
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadbayu1412&theme=tokyonight)](https://github.com/ahmadbayu1412)
 
 ---
 ## // GitHub Profile Trophies
-# Otomatis memberikan piala berdasarkan jumlah commit, akun lama, total repository, dll.
 [![Trophies](https://github-profile-trophies.vercel.app/?username=ahmadbayu1412&theme=onedark)](https://github.com/ahmadbayu1412)
 
 ---
