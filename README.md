@@ -53,7 +53,7 @@
 
 ---
 ## // Daily Streak
-[![Daily_Streak](https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/ahmadbayu1412)
+[![Daily_Streak](https://streak-stats.demolab.com/?user=ahmadbayu1412&theme=dark)](https://github.com/ahmadbayu1412)
 
 ---
 ## // Total Commit
