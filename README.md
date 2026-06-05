@@ -53,15 +53,15 @@
 
 ---
 ## // Daily Streak
-[![Daily Streak](https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/ahmadbayu1412/github-readme-stats)
+[![Daily_Streak](https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/ahmadbayu1412)
 
 ---
 ## // Total Commit
-[![Total Commit](https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/ahmadbayu1412/github-readme-stats)
+[![Total_Commit](https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/ahmadbayu1412)
 
 ---
 ## // Top Languages Card
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbayu1412&layout=compact&theme=dark)](https://github.com/ahmadbayu1412/github-readme-stats)
+[![Top_Languages_Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbayu1412&layout=compact&theme=dark)](https://github.com/ahmadbayu1412)
 
 ---
 ## // Connect With Me
