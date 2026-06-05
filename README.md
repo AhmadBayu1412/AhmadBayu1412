@@ -53,15 +53,15 @@
 
 ---
 ## // Daily Streak
-[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)---
+[![Daily Streak](https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/ahmadbayu1412/github-readme-stats)
 
 ---
 ## // Total Commit
-[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)---
+[![Total Commit](https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/ahmadbayu1412/github-readme-stats)
 
 ---
 ## // Top Languages Card
-[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=username_kamu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbayu1412&layout=compact&theme=dark)](https://github.com/ahmadbayu1412/github-readme-stats)
 
 ---
 ## // Connect With Me
