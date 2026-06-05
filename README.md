@@ -56,12 +56,14 @@
 [![Daily_Streak](https://streak-stats.demolab.com/?user=ahmadbayu1412&theme=dark)](https://github.com/ahmadbayu1412)
 
 ---
-## // Total Commit
-[![Total_Commit](https://github-readme-stats.vercel.app/api?username=ahmadbayu1412&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/ahmadbayu1412)
+## // GitHub Activity Graph
+# Menampilkan grafik kontribusi harianmu dalam bentuk kurva yang dinamis
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmadbayu1412&theme=tokyonight)](https://github.com/ahmadbayu1412)
 
 ---
-## // Top Languages Card
-[![Top_Languages_Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbayu1412&layout=compact&theme=dark)](https://github.com/ahmadbayu1412)
+## // GitHub Profile Trophies
+# Otomatis memberikan piala berdasarkan jumlah commit, akun lama, total repository, dll.
+[![Trophies](https://github-profile-trophies.vercel.app/?username=ahmadbayu1412&theme=onedark)](https://github.com/ahmadbayu1412)
 
 ---
 ## // Connect With Me
