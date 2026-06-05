@@ -52,7 +52,18 @@
 - 🟡 Contribute to open source projects
 
 ---
+## // Daily Streak
+[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)---
 
+---
+## // Total Commit
+[![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=dark&hide=issues,prs)](https://github.com/anuraghazra/github-readme-stats)---
+
+---
+## // Top Languages Card
+[![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=username_kamu&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 ## // Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad_Bayu_Samudera-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ahmad-bayu-samudera)
