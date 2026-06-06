@@ -45,7 +45,7 @@
 
 ---
 
-## // Goals 2025–2026
+## // Goals 2026–2027
 
 - 🟢 Land my first **Frontend Developer** role
 - 🔵 Grow into a **Fullstack Developer**
